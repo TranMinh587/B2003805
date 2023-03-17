@@ -1,36 +1,23 @@
-# B2003805
+# Name
 
 Dự án xây dựng website mua bán cây cảnh abc
 
-## Installation
+## Descripetion
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Đồ án xây dựng website bán cây cảnh mục đính tạo ra một website buôn bán cây cảnh
+đơn giản, dễ sử dụng
+Website gồm thêm, sửa, xóa sản phẩm, tài khoản người dùng
+Website gồm 2 người dùng : là khách và admin
+
+## Contact
 
 ```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+tamb2003805@student.ctu.edu.
 ```
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Nhóm thực hiện có 4 thành viên
 
 ## License
 
